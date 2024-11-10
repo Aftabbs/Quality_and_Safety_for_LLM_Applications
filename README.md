@@ -9,7 +9,7 @@
 As Large Language Models (LLMs) become more widely adopted, ensuring their quality and safety is crucial to building trustworthy applications. Quality in LLMs refers to their ability to produce accurate, contextually relevant, and coherent outputs, while safety involves preventing harmful or misleading information, unauthorized data leakage, and potential misuse. This project focuses on methods for assessing and improving the quality and safety of LLM applications, covering issues such as hallucinations, data leakage, prompt injections, and monitoring techniques.
 
 ## Key Quality and Safety Concerns
-
+    
 ### 1. Hallucinations
 Hallucinations in LLMs refer to instances where the model generates information that is factually incorrect, nonsensical, or fabricated. These outputs can occur when the model:
 - Overfits on certain data patterns,
