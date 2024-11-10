@@ -1,6 +1,6 @@
 # Quality and Safety for LLM Applications   
 
-![image](https://github.com/user-attachments/assets/ce1060aa-81ee-4c67-957b-3d7fe4356cf7)   
+![image](https://github.com/user-attachments/assets/ce1060aa-81ee-4c67-957b-3d7fe4356cf7)       
      
 ## Overview
 
