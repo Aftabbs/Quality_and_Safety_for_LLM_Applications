@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/ce1060aa-81ee-4c67-957b-3d7fe4356cf7)          
      
 ## Overview
-
+  
 ![image](https://github.com/user-attachments/assets/0c97c6d1-f60b-4499-96f8-1324e21b9325)
 
 As Large Language Models (LLMs) become more widely adopted, ensuring their quality and safety is crucial to building trustworthy applications. Quality in LLMs refers to their ability to produce accurate, contextually relevant, and coherent outputs, while safety involves preventing harmful or misleading information, unauthorized data leakage, and potential misuse. This project focuses on methods for assessing and improving the quality and safety of LLM applications, covering issues such as hallucinations, data leakage, prompt injections, and monitoring techniques.
